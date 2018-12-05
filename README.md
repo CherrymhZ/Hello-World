@@ -4,7 +4,7 @@
 ![picture]()
 ```test
 'if() {
-boolean 2017 = false;
+boolean two = false;
 try {
 }catch(exception e){
 finally{
