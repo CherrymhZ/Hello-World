@@ -25,4 +25,4 @@ contexts：
     X天/周/月/年前：URL + / + master@{7.day.ago}...master   //etc. day  week month  year
     指定日期之间的差别： URL + / + master@{2013-07-13}...master
     
-### <span style="color:orange;">反馈：很好，很厉害！Thumb up!</span>
+### <span style="color:orange;">反馈：很好，很厉害！Thumb up!!</span>
